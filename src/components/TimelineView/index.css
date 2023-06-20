@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.ccbpJourney {
+  height: 100vh;
+  padding: 5vh;
+}
+.heading {
+  text-align: center;
+}
+span {
+  color: BLUE;
+}
+.chroneContainer {
+  display: flex;
+  flex-direction: row;
+}
+.CourseCard {
+  width: 45vw;
+}
+.chronoCard {
+  margin-left: 2vh;
+  height: 60vh;
+  width: 60vw;
+}

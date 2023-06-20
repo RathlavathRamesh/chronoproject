@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.projectItem {
+  list-style-type: none;
+}
+.projectImage {
+  height: 30vh;
+}
+.anchor {
+  height: 5vh;
+  width: 6vw;
+  color: #ffffff;
+  background-color: blue;
+  width: 6vw;
+  padding: 4px;
+}

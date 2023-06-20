@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.headcal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading {
+  font-size: 25px;
+  color: #171f46;
+}
+.discription {
+  font-size: 18px;
+  color: #1e293b;
+}
+.clock {
+  width: 1.5vw;
+  margin-top: 1vh;
+}
+.courseCard {
+  height: 50vh;
+}
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+.but {
+  background-color: #a4b1b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  border-width: 0px;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 1vh;
+}
+.days {
+  font-size: 13px;
+}
